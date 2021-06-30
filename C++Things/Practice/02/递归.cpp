@@ -17,7 +17,7 @@ int f(int n)//实现 阶乘
     }
 }
 
-int f(int n, int k)
+int f(int n, int k)//元素为1的下对角矩阵之和
 {
     if ((n==k)||(k==0))
     {
