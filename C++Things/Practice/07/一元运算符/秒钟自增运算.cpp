@@ -1,17 +1,17 @@
-//Éè¼ÆÒ»¸öÊ±¼äÀàTime£¬ËüÄÜ¹»Íê³ÉÃëÖÓµÄ×ÔÔöÔËËã¡£
+//è®¾è®¡ä¸€ä¸ªæ—¶é—´ç±»Timeï¼Œå®ƒèƒ½å¤Ÿå®Œæˆç§’é’Ÿçš„è‡ªå¢è¿ç®—ã€‚
 
 #include<iostream>
 using namespace std;
 
 class Time{
-    private:
-        int hour,minute,second;
-    public:
-        Time(int h,int m, int s);
-        Time operator++();
-        //ÓÑÔªÖØÔØĞèÒª²ÎÊı
-        friend Time operator--(Time &t);
-        void display(); 
+private:
+    int hour,minute,second;
+public:
+    Time(int h,int m, int s);
+    Time operator++();
+    //å‹å…ƒé‡è½½éœ€è¦å‚æ•°
+    friend Time operator--(Time &t);
+    void display();
 };
 
 Time::Time(int h, int m, int s){
@@ -38,7 +38,7 @@ Time Time::operator++(){
                 hour=0;
         }
     }
-    return *this;       
+    return *this;
 }
 Time operator--(Time &t){
     --t.second;
@@ -52,7 +52,7 @@ Time operator--(Time &t){
                 t.hour=0;
         }
     }
-    return t;  
+    return t;
 }
 void Time::display(){
     cout<<hour<<":"<<minute<<":"<<second<<endl;
@@ -61,9 +61,9 @@ int main(int argc, char const *argv[])
 {
     Time t1(23,59,59);
     t1.display();
-    ++t1; //ÒşÊ½µ÷ÓÃ
+    ++t1; //éšå¼è°ƒç”¨
     t1.display();
-    t1.operator++(); //ÏÔÊ½µ÷ÓÃ
+    t1.operator++(); //æ˜¾å¼è°ƒç”¨
     t1.display();
     Time t2(24,60,60);
     t2.display();
