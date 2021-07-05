@@ -107,7 +107,7 @@ int InsertList(PSwqList LL, unsigned int ii, ElemType *ee)
         memcpy(LL->data[kk], &LL->data[kk - 1], sizeof(ElemType));
     }
 
-    memccpy(&LL->data[ii - 1], ee, sizeof(ElemType));
+    memcpy(&LL->data[ii - 1], ee, sizeof(ElemType));
 
     LL->length++;
     return 1;
