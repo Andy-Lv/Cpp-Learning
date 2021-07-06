@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/andy/Code/C++-Learning/C++Things/Practice/05/基类和派生类/基类和派生类.cpp" "/home/andy/Code/C++-Learning/cmake-build-debug/CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o"
+  "/home/andy/Code/C++-Learning/C++Things/2 Practice/05/基类和派生类/基类和派生类.cpp" "/home/andy/Code/C++-Learning/cmake-build-debug/CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

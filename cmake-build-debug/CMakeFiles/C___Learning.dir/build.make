@@ -76,27 +76,27 @@ include CMakeFiles/C___Learning.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C___Learning.dir/flags.make
 
-CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o: CMakeFiles/C___Learning.dir/flags.make
-CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o: ../C++Things/Practice/05/基类和派生类/基类和派生类.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andy/Code/C++-Learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o -c /home/andy/Code/C++-Learning/C++Things/Practice/05/基类和派生类/基类和派生类.cpp
+CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o: CMakeFiles/C___Learning.dir/flags.make
+CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o: ../C++Things/2\ Practice/05/基类和派生类/基类和派生类.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andy/Code/C++-Learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o -c "/home/andy/Code/C++-Learning/C++Things/2 Practice/05/基类和派生类/基类和派生类.cpp"
 
-CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/andy/Code/C++-Learning/C++Things/Practice/05/基类和派生类/基类和派生类.cpp > CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i
+CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/andy/Code/C++-Learning/C++Things/2 Practice/05/基类和派生类/基类和派生类.cpp" > CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i
 
-CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/andy/Code/C++-Learning/C++Things/Practice/05/基类和派生类/基类和派生类.cpp -o CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s
+CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/andy/Code/C++-Learning/C++Things/2 Practice/05/基类和派生类/基类和派生类.cpp" -o CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s
 
 # Object files for target C___Learning
 C___Learning_OBJECTS = \
-"CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o"
+"CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o"
 
 # External object files for target C___Learning
 C___Learning_EXTERNAL_OBJECTS =
 
-C___Learning: CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o
+C___Learning: CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o
 C___Learning: CMakeFiles/C___Learning.dir/build.make
 C___Learning: CMakeFiles/C___Learning.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/andy/Code/C++-Learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C___Learning"

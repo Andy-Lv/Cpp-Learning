@@ -142,32 +142,32 @@ C___Learning/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/build
 .PHONY : C___Learning/fast
 
-C++Things/Practice/05/基类和派生类/基类和派生类.o: C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o
+C++Things/2_Practice/05/基类和派生类/基类和派生类.o: C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o
 
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.o
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.o
 
 # target to build an object file
-C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o
+C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o
 
-C++Things/Practice/05/基类和派生类/基类和派生类.i: C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i
+C++Things/2_Practice/05/基类和派生类/基类和派生类.i: C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i
 
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.i
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.i
 
 # target to preprocess a source file
-C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.cpp.i
+C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.i
 
-C++Things/Practice/05/基类和派生类/基类和派生类.s: C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s
+C++Things/2_Practice/05/基类和派生类/基类和派生类.s: C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s
 
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.s
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.s
 
 # target to generate assembly for a file
-C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s
-.PHONY : C++Things/Practice/05/基类和派生类/基类和派生类.cpp.s
+C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C___Learning.dir/build.make CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s
+.PHONY : C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C___Learning"
-	@echo "... C++Things/Practice/05/基类和派生类/基类和派生类.o"
-	@echo "... C++Things/Practice/05/基类和派生类/基类和派生类.i"
-	@echo "... C++Things/Practice/05/基类和派生类/基类和派生类.s"
+	@echo "... C++Things/2_Practice/05/基类和派生类/基类和派生类.o"
+	@echo "... C++Things/2_Practice/05/基类和派生类/基类和派生类.i"
+	@echo "... C++Things/2_Practice/05/基类和派生类/基类和派生类.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C___Learning.dir/C++Things/Practice/05/基类和派生类/基类和派生类.cpp.o"
+  "CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o"
   "C___Learning"
   "C___Learning.pdb"
 )
