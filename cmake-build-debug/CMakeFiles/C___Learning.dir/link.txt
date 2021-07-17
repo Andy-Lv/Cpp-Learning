@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/C___Learning.dir/C++Things/2_Practice/05/基类和派生类/基类和派生类.cpp.o -o C___Learning 

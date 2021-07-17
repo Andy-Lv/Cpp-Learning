@@ -1,4 +1,1 @@
-/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andy/Code/C++-Learning
--- Configuring done
--- Generating done
--- Build files have been written to: /home/andy/Code/C++-Learning/cmake-build-debug
+在 /home/andy/Code/C++-Learning 中找不到 CMakeLists.txt 选择 CMakeLists.txt
